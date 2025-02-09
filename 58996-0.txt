@@ -1,33 +1,7 @@
-The Project Gutenberg EBook of The story of Coventry, by Mary Dormer Harris
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: The story of Coventry
-
-Author: Mary Dormer Harris
-
-Illustrator: Albert Chanler
-
-Release Date: March 2, 2019 [EBook #58996]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE STORY OF COVENTRY ***
+*** START OF THE PROJECT GUTENBERG EBOOK 58996 ***
 
 
 
-
-Produced by ellinora, Graeme Mackreth and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive/Canadian Libraries)
 
 
 
@@ -81,7 +55,7 @@ those who wished to identify the historic sites, and see the historic
 buildings of Coventry. In expanding Chapter XV. in so far as it dealt
 with the Corpus Christi plays--a task the labours of Dr Hardin Craig
 have rendered comparatively light--I have been able to add one hitherto
-unpublished item to the subject of the mediæval dramatic history of
+unpublished item to the subject of the mediÃ¦val dramatic history of
 Coventry (p. 296), and dispel the idea that the name "S. Crytyan"
 given to a play acted in 1505 is a misreading for S. Catherine. For
 permission to publish this item I am indebted to the kindness of Mr
@@ -349,7 +323,7 @@ INTRODUCTION
 
 _The Three Spires and Coventry_
 
- "Now flourishing with fanes, and proud pyramidès,
+ "Now flourishing with fanes, and proud pyramidÃ¨s,
  Her walls in good repair, her ports so bravely built,
  Her halls in good estate, her cross so richly gilt,
  As scorning all the Towns that stand within her view."
@@ -363,7 +337,7 @@ twelve stately gates, but two remain. Gone, too, is the splendid
 conduit in the Cross Cheaping, S. Nicholas' Hall in the West Orchard,
 meeting-place of the Corpus Christi guild; and S. Nicholas' Church, out
 to the north beyond Bishop Street, which fell to ruin soon after the
-Reformation. But the "proud pyramidès," the "three spires," remain yet,
+Reformation. But the "proud pyramidÃ¨s," the "three spires," remain yet,
 and give greeting to all who approach Coventry, dominating the flat
 midland country for many a mile, changing their relative position as
 the spectator moves, and their colour in the shifting lights. Highest
@@ -389,8 +363,8 @@ accession--but Protestant, as witness its martyrs--Lollard in the
 hey-day of Lollardry, patriotic and Talbot-worshipping in the Hundred
 Years' War--as England was, so was Coventry. In art and letters, also,
 the city recalls what is most characteristic in the achievements of the
-English people. Here flourished mediæval architecture, an art wherein
-Englishmen have excelled greatly, and the mediæval religious drama,
+English people. Here flourished mediÃ¦val architecture, an art wherein
+Englishmen have excelled greatly, and the mediÃ¦val religious drama,
 foundation of Shakespeare's greatness; while chance, and the sojourn
 of George Eliot, have given the city associations with the literary
 outburst of the Victorian time.
@@ -432,7 +406,7 @@ reality, this honour should belong to the lay-folk and craftspeople of
 the city.
 
 It is well--so the journey is made from the south--to gain a more
-distant view of the "proud pyramidès" over the flat fields from the
+distant view of the "proud pyramidÃ¨s" over the flat fields from the
 Stoneleigh Road, where Christchurch falls into its proper place. The
 trees make the way through Stoneleigh a lovely one, and the village
 church, redolent of eighteenth century peace, with a magnificent Norman
@@ -681,7 +655,7 @@ whereby he may release himself from the bonds of sin. For our Lord
 in a sermon thus speaketh: 'Lay up for yourselves with alms-deeds
 a treasure-hoard in heaven, and a dwelling with angels.'[12] For
 which needful things I make known to you all that I grant with full
-permission that the same gift which Leofric and Godgyuæ have given
+permission that the same gift which Leofric and GodgyuÃ¦ have given
 to Christ, and His dear Mother, and to Leofwin, the abbot, and the
 brethren within the minster at Coventry, for their souls to help,
 in land and in water, in gold and in silver, in ornaments, and in
@@ -893,7 +867,7 @@ tree.]
 
 [Footnote 21: Add. MSS. Ch. 28657. Birch, _Edward the Confessor's
 Charter to Coventry_. "A most elegant specimen of eleventh century
-native palæography" (Birch).]
+native palÃ¦ography" (Birch).]
 
 [Footnote 22: On events which occur before 1154 (or 1188) the
 chronicler is dependent on some earlier unknown writer (_Dict. Nat.
@@ -922,10 +896,10 @@ _Gent. Mag. Topography_, xiii. 53.]
 
 [Footnote 29: _Science of Fairy Tales._]
 
-[Footnote 30: Chambers, _Mediæval Stage_, i. 119.]
+[Footnote 30: Chambers, _MediÃ¦val Stage_, i. 119.]
 
 [Footnote 31: Grant Allen, _Evolution of the Idea of God_, 110
-(festival of the Pòtraj).]
+(festival of the PÃ²traj).]
 
 [Footnote 32: Hartland, _op. cit._, 77.]
 
@@ -948,7 +922,7 @@ to see it.]
 
 [Footnote 37: Sir Lawrence Gomme explains the black Godiva by a
 reference to Pliny's account of the woad-stained British women, but see
-Chambers, _Mediæval Stage_, i. 125.]
+Chambers, _MediÃ¦val Stage_, i. 125.]
 
 [Footnote 38: _Science of Fairy Tales_, 71-92. Mr Hartland was the
 first folklorist to submit the story to scientific investigation. He
@@ -1277,7 +1251,7 @@ of S. Mary found that the enemy had sprung up under the very shadow
 of the monastery itself, and that the men of Coventry were even more
 implacable foes than the canons of Lichfield had been in times past.
 These quarrels between ecclesiastical bodies and their burgher tenants
-were of common occurrence in mediæval life. The strong corporate
+were of common occurrence in mediÃ¦val life. The strong corporate
 feeling which flourished amongst the monks, the zeal they bore for
 their order in general and their house in particular, which involved
 them in endless quarrels, caused them to play a notable part in
@@ -1337,7 +1311,7 @@ must I have but one cathedral?" (Beresford, 76).]
 [Footnote 59: For the disputes between ecclesiastics and their tenants
 see Mrs Green, _Town Life_, i. 333-383; Thompson, _Municipal History_,
 _passim_. This feature is not confined to England. For the disputes
-between the men of Rouen and the chapter see Giry, _Établissements de
+between the men of Rouen and the chapter see Giry, _Ã‰tablissements de
 Rouen_, 34.]
 
 
@@ -1797,7 +1771,7 @@ expedition lasting more than one day (_Ibid._).]
 Charters_, 166.]
 
 [Footnote 76: See Gross, _Gild Merchant_, i. 244-257; Bateson, "Laws of
-Breteuil," _Eng. Hist. Rev._, xvi.; Tait, _Mediæval Manchester_, 43-4.]
+Breteuil," _Eng. Hist. Rev._, xvi.; Tait, _MediÃ¦val Manchester_, 43-4.]
 
 [Footnote 77: Nottingham and Winchester received a grant of particular
 customs after the pattern of Coventry. London was taken as a model by
@@ -1909,7 +1883,7 @@ worsted in the quarrel, they covenanted with a neighbouring lord for
 forty acres of land, preparing to leave their houses and live in tents
 ere they would pay the arbitrary tolls and taxes the prior had laid
 upon them.[95] It is true there were no philosophic fervour about the
-mediæval burgher, no enthusiasm about liberty in the abstract. What he
+mediÃ¦val burgher, no enthusiasm about liberty in the abstract. What he
 wanted was some small practical advantage his masters denied him.[96]
 All the townsman of S. Alban's asked at the beginning of the quarrel
 was, that he should be allowed to grind his corn at home instead of at
@@ -1961,7 +1935,7 @@ by uniting the two manors whereof the town was composed under one
 lord, he proposed to purchase the earl's estate, a scheme to which
 Roger de Montalt, being in need of money for a Crusade, was fain to
 agree. So in 1249 the latter resigned the manor into the prior's hand
-in return for a yearly rent of £100, with ten marks to the nuns of
+in return for a yearly rent of Â£100, with ten marks to the nuns of
 Polesworth, and by this means the head of the convent became lord of
 the Earl's-half,[99] Prior's-men and Earl's-men alike holding of him
 house and land, and owing him rent and accustomed services. Thus the
@@ -2068,10 +2042,10 @@ free to sell their goods when or where they would. Vainly, too, they
 tried to strengthen their case by declaring that before the prior had
 purchased the Chester estate they had been wont to hold a fair in the
 Earl Street, where now their shops stood. These pleas availed nothing,
-and a verdict was returned for the prior with £60 damages, the Earl's
+and a verdict was returned for the prior with Â£60 damages, the Earl's
 men being forbidden to sell anywhere but in the Prior's-half during
 market hours. The prescribed payment must have well-nigh ruined William
-Grauntpee and other traders concerned in the struggle, for £60 was then
+Grauntpee and other traders concerned in the struggle, for Â£60 was then
 accounted a great sum.[110]
 
 It was in 1323 that the townsfolk sought, after a very novel fashion,
@@ -2088,8 +2062,8 @@ Master John de Nottingham, necromancer, of Coventry. To whom, on the
 Wednesday next before the feast of S. Nicholas, in the seventeenth
 year of the King's reign, came certain men of the town, citizens of
 good standing, and promised them great profit--to the necromancer,
-£20, and "his subsistence in any religious house in England,"[111] and
-to Robert le Mareshall, £15--if they would compass the lives of the
+Â£20, and "his subsistence in any religious house in England,"[111] and
+to Robert le Mareshall, Â£15--if they would compass the lives of the
 King and others by necromancy. Having received part of the promised
 payment as earnest at the hands of John le Redclerk, hosier, and John,
 son of Hugh de Merington, apprentice of the law, with seven pounds of
@@ -2174,7 +2148,7 @@ in the fourteenth century. The traders' goods were kept in a cellar
 below the ground floor (Turner, _Domestic Architecture_, iii. 36). See
 also, Dormer Harris, _Troughton Sketches_, 53.]
 
-[Footnote 110: The value of £60 would represent more than £700 at the
+[Footnote 110: The value of Â£60 would represent more than Â£700 at the
 present time. In the late thirteenth and early fourteenth centuries the
 average price of an ox was 13s. 1-1/4d,; of a sheep, 1s. 5d.; of a cow,
 9s. 5d.; and a fowl, 1d. (Rogers, _Agriculture and Prices_, i. 361-3).]
@@ -2267,7 +2241,7 @@ years last past my lady had given to a demoiselle of her chamber."[117]
 Now they averred that she had put the bailiff of the Earl's-half out
 of his office, whereby they had lost all profits arising from their
 franchises. Still the spoliation continued; they fixed the damage the
-convent had sustained at £20,000,[118] and, turning from the deaf ears
+convent had sustained at Â£20,000,[118] and, turning from the deaf ears
 of Queen Isabel, besought the King to see justice done for God's sake,
 "and for love of our Lady, his dear Mother, in whose honour the priory"
 had been founded, lest the convent should be compelled to disperse.[119]
@@ -2330,11 +2304,11 @@ Tripartite" made between them took the form of a compromise. Each of
 the three parties agreed to restore or forego the exercise of certain
 rights, or at least to accept an equivalent. The prior gave up all
 claim to jurisdiction over the Earl's-men, and the Queen forgave him
-£10 of the yearly ferm owing to her, while the franchises he thus
+Â£10 of the yearly ferm owing to her, while the franchises he thus
 relinquished--the right of holding view of frankpledge or leet and
 other courts with the exercise of the coronership--Isabel bestowed
 on the mayor, bailiffs, and community. These in their turn agreed to
-indemnify the convent by a payment of £10 a year.
+indemnify the convent by a payment of Â£10 a year.
 
 Other matter of contention was laid at rest. The prior's tenants were
 to be taxable with the Earl's-men, and to serve as mayors and bailiffs
@@ -2406,14 +2380,14 @@ vi. 837).]
 [Footnote 124: Burton MS. f. 110_a_.]
 
 [Footnote 125: The fee-ferm rent, representing the King's rights over
-the fines, forfeitures, etc, taken from criminals, was fixed at £50
+the fines, forfeitures, etc, taken from criminals, was fixed at Â£50
 a year. The liberties granted to be summed up thus: (1) The townsmen
 may duly elect their own mayor and bailiffs. (2) They have cognizance
 of pleas, of trespasses, contracts, covenants, and all other business
 amongst themselves. (3) There is to be a seal for the recognition of
 debts. (4) Mayor and bailiffs to have profits of view of frankpledge
 with the court, to have control over the gaol, fair, market, etc., and
-in return a ferm of £50 to be paid to the Queen and her heirs (Corp.
+in return a ferm of Â£50 to be paid to the Queen and her heirs (Corp.
 MS. B. 11).]
 
 [Footnote 126: Burton MS. f. 111_a_.]
@@ -2458,8 +2432,8 @@ of continuous civic life.
 Coventry was now a free and independent corporate borough. The townsmen
 had power to elect their own officers, and hold their own courts,
 taking for the common use the profits of jurisdiction, so long as
-they paid into the royal exchequer the annual fee-ferm of £50 and the
-prior's ferm of £10. The leading men of the place, most likely the
+they paid into the royal exchequer the annual fee-ferm of Â£50 and the
+prior's ferm of Â£10. The leading men of the place, most likely the
 wealthy merchants and others, who had won the charter of liberties
 from Queen Isabel,[132] now set to work to reorganise courts, elect
 officials, in short to shape the whole administration to fall in with
@@ -2549,7 +2523,7 @@ municipal uses, gave these masters much power and authority with the
 magnates of the city. The guilds joined their funds with those of the
 wardens to pension deserving townsfolk[141] and pay the salary of the
 recorder.[142] Before 1384 the Trinity guild discharged the ferm of
-£10 due to the prior, receiving a share of common land to be held in
+Â£10 due to the prior, receiving a share of common land to be held in
 severalty[143]--that is separate from the lands of the community--as
 compensation. Indeed, the guild officers were so clearly considered
 as officers of the corporation that when they, together with the city
@@ -2584,7 +2558,7 @@ as rapidly coalesced, or, in the case of those "yeomen" or journeymen
 fraternities, which served to focus the prevailing industrial
 discontent, failed to maintain themselves in face of the hostility
 of other powerful previously existing associations. Two fraternities
-survived to play a great part in the city's mediæval history, the
+survived to play a great part in the city's mediÃ¦val history, the
 Corpus Christi guild, founded in 1348, and the better-known society
 of the Holy Trinity, S. Mary, S. John the Baptist, and S. Catherine,
 properly a fusion of four different fraternities, founded between 1340
@@ -2619,7 +2593,7 @@ John's Hospital,[152] coalesced between 1364-5 with the guild merchant,
 to be absorbed later by the all-embracing Trinity fraternity. This
 fusion of the guilds, which had certainly taken place informally
 before 1384,[153] was ratified by patent in 1392,[154] when the united
-revenues were increased to the amount of £86, 13s. 4d. a year. The
+revenues were increased to the amount of Â£86, 13s. 4d. a year. The
 completion of S. John's church became the especial care of the Trinity
 guild, and the dues taken at the Drapery, where cloth was sold, were
 devoted to that purpose, while a college of priests, whose number was
@@ -2713,12 +2687,12 @@ of felons by the justices of the peace, see Sharp, _Antiq._, 212.]
 
 [Footnote 142: _Ib._, 681.]
 
-[Footnote 143: We learn in 1384 that the annual ferm of £10, due to
+[Footnote 143: We learn in 1384 that the annual ferm of Â£10, due to
 the prior according to the terms of the Tripartite, was drawn from the
 coffers of the guild (_Leet Book_, 2-6). Directly the guild lands were
 confiscated in 1545 the corporation made a great outcry concerning
 their poverty. They had, they declared, no lands whence they might
-derive an income to meet the yearly ferm of £50, and in trying to
+derive an income to meet the yearly ferm of Â£50, and in trying to
 discharge it one or two of the citizens were yearly ruined (Vol. of
 Correspondence, f. 63, Corp. MS. A. 79).]
 
@@ -2726,7 +2700,7 @@ Correspondence, f. 63, Corp. MS. A. 79).]
 
 [Footnote 145: Gross, _Gild Merchant_, ii. 49; Toulmin Smith, _Eng.
 Gilds_, 231. In the return of 1389 it is stated that several messuages
-worth £37, 12s. 4d. a year are waiting for the licence of the King
+worth Â£37, 12s. 4d. a year are waiting for the licence of the King
 and the mesne lords to be given to the guild. No doubt the Statute of
 Mortmain was often evaded. The corporation records show that the guild
 held house property as early as 1353 (Corp. MS. C. 148).]
@@ -2748,8 +2722,8 @@ municipal purposes as early as 1388.]
 [Footnote 149: _Ib._, 212.]
 
 [Footnote 150: In Mantes the guild "aux marchands" was one with
-the "confrèrie de l'assomption de la Vierge" (Luchaire, _Communes
-Françaises_, 34).]
+the "confrÃ¨rie de l'assomption de la Vierge" (Luchaire, _Communes
+FranÃ§aises_, 34).]
 
 [Footnote 151: _Vict. County Hist._, ii. 120.]
 
@@ -2798,15 +2772,15 @@ the deficit, and hence were poorer men at the year's end than at the
 beginning. Thus when the prior refused to pay the murage tax for twenty
 years, the chamberlains, or treasurers, contributed the sum that was
 lacking from their own purses.[161] Still, on the whole, the magnates
-preferred to acquiesce in their election rather than pay £100, 100
-marks, or £40 as a fine for refusing to fill the respective offices of
+preferred to acquiesce in their election rather than pay Â£100, 100
+marks, or Â£40 as a fine for refusing to fill the respective offices of
 mayor, sheriff or master of either guild. Once, indeed, a certain Roger
 a Lee declined to occupy the office of chamberlain, though he was a man
-well-to-do, having received £30 in money and plate with his wife, and
+well-to-do, having received Â£30 in money and plate with his wife, and
 must--so the prevailing opinion was--have "had right largely of his
 own," or else "John Pachet would not have married his daughter to him."
 When solemnly adjured to "come in and exercise the said office," Roger
-persisted in his refusal, nor did the imposition of a fine of £20 avail
+persisted in his refusal, nor did the imposition of a fine of Â£20 avail
 to shake his resolution.[162]
 
 [Illustration: THE CITY KEYS]
@@ -2861,7 +2835,7 @@ into the holy cake, or blessed bread, distributed to the congregation.
 No doubt it was impossible to enforce all these regulations. All the
 energy of the leet, or council, and the vigilance of the town officers
 often failed to do away with a long-standing abuse. It was forbidden,
-under penalty of £10, to throw refuse into the Sherbourne; yet though
+under penalty of Â£10, to throw refuse into the Sherbourne; yet though
 "great diligence" was made to learn who the offenders were, it did not
 hinder the commission of the offence.[170] And although, according to
 the decrees of leet and council, people were compelled to be cleanly,
@@ -2882,7 +2856,7 @@ soldiers, such as they appeared at the half-yearly muster, each armed
 with such weapons as suited his degree.[175] While, in order to acquit
 himself with credit in the difficult and delicate relations wherein the
 citizens were frequently involved with the outside world of politics, a
-mediæval mayor must gather all the information he could upon affairs of
+mediÃ¦val mayor must gather all the information he could upon affairs of
 state.
 
 [Illustration: THE OLD STATE CHAIR]
@@ -2938,7 +2912,7 @@ record they did nothing but set the seal of approval to the official
 policy. Thus in 1384[187] the mayor summoned four or six out of every
 ward to learn what the common wish was concerning the Podycroft and
 other common lands, which the Trinity guild kept in severalty in
-return for the annual ferm of £10 paid to the prior on behalf of the
+return for the annual ferm of Â£10 paid to the prior on behalf of the
 corporation, the assembly was in favour of the continuance of the old
 arrangement, though it was avowedly a most unpopular one. And no orders
 of leet availed to check the open discontent of the common folk, who
@@ -3158,7 +3132,7 @@ quitting the sanctuary found their enemies lying in wait, and perished,
 although they held the cross, symbol of the Church's protection, in
 their hand. Men feared to incur the penalty of excommunication, which
 the violation of sanctuary always brought, by dragging Faulkes de
-Breauté from Coventry church; and this Norman adventurer, whom the
+BreautÃ© from Coventry church; and this Norman adventurer, whom the
 favour of John and Henry III. had raised to riches and greatness until
 he was "plasquam rex in Anglia"--of more account than the King--put
 himself under the bishop's protection, and travelled in his company
@@ -3172,7 +3146,7 @@ During the siege of Kenilworth, which lasted from midsummer to December
 1266, the neighbourhood was the centre of military operations, but
 when the castle containing the remnant of De Montfort's following
 surrendered, the smouldering fires of civil war died away. Part of the
-famous ruin that witnessed this siege, the Norman keep, or Cæsar's
+famous ruin that witnessed this siege, the Norman keep, or CÃ¦sar's
 Tower, is standing yet. But of all these events the local documents
 tell us nothing. In spite of the stirring scenes enacted at Kenilworth,
 scarce five miles away, we do not know whether the folk of the town
@@ -3388,7 +3362,7 @@ year of his reign borrowed 200 marks from the mayor and community,
 leaving in pledge "his great collar, called Iklynton collar,"[215]
 garnished with 4 rubies, 4 great sapphires, 32 great pearls, and 53
 other pearls of a lesser sort, weighing 36-3/4 oz., and then valued
-at £500. When the King or any great noble desired to borrow, and
+at Â£500. When the King or any great noble desired to borrow, and
 the citizens were willing to lend, collectors were appointed by the
 corporation to go through each ward and take from every man his
 contribution towards the loan. Each citizen paid, according to his
@@ -3453,8 +3427,8 @@ records.
 
 Henry V. seems to have been much beloved in Coventry, if we may
 judge by the hearty welcome given to him on his coming thither on
-March 21, 1421. The mayor and council ordered that £100 and a gold
-cup worth £10 should be presented to the King, and the same to the
+March 21, 1421. The mayor and council ordered that Â£100 and a gold
+cup worth Â£10 should be presented to the King, and the same to the
 Queen "in suo adventu a Francia in Coventre," for those times a truly
 magnificent gift. The citizens never thereafter beheld the King. For
 in the following year, being overtaken at the Bois de Vincennes by a
@@ -3487,7 +3461,7 @@ were about the King. The next year the Earl of Warwick and a special
 commission of justices were sent down from Westminster to inquire into
 this movement within the city.[223] For some time the franchises were
 in danger of confiscation; but after the citizens had borne great
-charges, upwards of £80 for "counsel" and other costs, their peace with
+charges, upwards of Â£80 for "counsel" and other costs, their peace with
 the ruling powers was made.
 
 It is natural to infer that this disturbance, which the city
@@ -3522,7 +3496,7 @@ wrote to beg the citizens to relieve the necessities of the child-king
 Henry, "now in his tender age and his greatest need," informing them,
 as an incentive to their liberality, that the townsmen of Bristol
 had "notably and kindly acquit them" in these matters, the citizens
-lent £100 willingly enough. But with the prudence which distinguished
+lent Â£100 willingly enough. But with the prudence which distinguished
 their everyday doings, they sent John Leder, late mayor, to London to
 negotiate for pledges for future repayment,[226] which sureties, we
 are told, "might not be gotten without great labour."[227] Richard
@@ -3530,7 +3504,7 @@ Joy and Laurence Cook[228] undertook a like errand the same year,
 for the protector Gloucester, the husband of Jacoba of Hainault,
 who proposed--so he informed the citizens--"to pass over the sea
 with God's might ... to receive ... his lands and lordships," begged
-the good folk of Coventry to ease him in his undertaking with £200
+the good folk of Coventry to ease him in his undertaking with Â£200
 "upon sufficient surety." Whether the good folk believed that the
 expedition to Flanders would turn to "right great ease of the people,
 and especially of these merchants of this realm," as the duke boasted,
@@ -3540,7 +3514,7 @@ however, "with all their good hearts" to those more worthy of respect
 than Gloucester; and when Talbot was a prisoner in the hands of the
 French, they sent 23 marks towards his ransom.[229] To the King's later
 applications for a loan, they usually gave a favourable answer. In 1431
-Laurence Cook bore to London £100, lent for the prosecution of the
+Laurence Cook bore to London Â£100, lent for the prosecution of the
 war, "and many lords, spiritual and temporal," the _Leet Book_ says,
 "that is to say, the worthy cardinal, then bishop of Winchester, the
 bishop of Bath, the bishop of Ely, and the bishop of Rochester, lords
@@ -3629,7 +3603,7 @@ Riley), 394.]
 
 [Footnote 216: Shakespeare I. _Hen._ IV. iv. 2.]
 
-[Footnote 217: _Ib._, iii. 2. See my letter in _Athenæum_ 4330, p. 489.]
+[Footnote 217: _Ib._, iii. 2. See my letter in _AthenÃ¦um_ 4330, p. 489.]
 
 [Footnote 218: Henry Peyto was mayor in 1423. The Peto family came from
 Chesterton.]
@@ -3650,7 +3624,7 @@ in MS. For the former, see Fordun _Scoti-chronicon_ (ed. Hearne). V.
 App.; Dugdale, _Warw._ (1730), i. 147-53; for MS. versions, see British
 Museum Harl. MSS. 6,388 (a compilation of several previously existing
 copies made in 1690 by Humphrey Wanley); Add. MSS. 11,364; Birmingham
-Free Library, _Warw._, MSS. 115,915 (see _Athenæum_, No. 4328);
+Free Library, _Warw._, MSS. 115,915 (see _AthenÃ¦um_, No. 4328);
 Coventry Corp. MSS. A. 37, A. 43, A. 48. An eighteenth-century version
 in the hands of Mr Eynon of Leamington has relatively correct dates.
 See also Solly-Flood, _op. cit._, 50-1.]
@@ -3670,7 +3644,7 @@ i. 437.]
 
 [Footnote 228: The surety for the loan "might not be gotten without
 great cost," and the different emissaries of the citizens spent, one
-40s., one 13s. 4d., and another £6, 2s. 2d. in journeys to London,
+40s., one 13s. 4d., and another Â£6, 2s. 2d. in journeys to London,
 Boston, and Sandwich about this business (_Ib._ 86).]
 
 [Footnote 229: _Leet Book_, 119-20.]
@@ -3680,7 +3654,7 @@ Boston, and Sandwich about this business (_Ib._ 86).]
 [Footnote 231: _Ib._, 174.]
 
 [Footnote 232: _Leet Book_, 152. The total cost of these presents
-(exclusive of the 50 marks and the cup), with the carriage, was £12,
+(exclusive of the 50 marks and the cup), with the carriage, was Â£12,
 15s. 4d. In addition to this, the expenses of officers and all the
 worthy men, riding to Fullbrook, amounted to 29s. 6d.]
 
@@ -3950,7 +3924,7 @@ visit reached the city about August 24, and a council was called to
 provide for her highness's welcome.[253] A hundred marks was collected
 throughout the wards to be given as an offering to the Prince of
 Wales and his mother, together with two cups whereof the joint value
-amounted to £10, 7s. 1d. The prince did not, however, accompany the
+amounted to Â£10, 7s. 1d. The prince did not, however, accompany the
 Queen on this occasion, so fifty marks were laid aside "against his
 coming," though the magnificence of his mother's reception was not
 lessened on this account. The "makyng of the premesses " of the Queen's
@@ -4026,7 +4000,7 @@ tragic meanings, whereof he was, of course, wholly unconscious.
 
 The pageants and welcome entertainments cost the citizens not a little,
 we may suppose, in time and treasure. They made the king a present
-of a tun of wine costing £8, 0s. 4d.; while by the "advice of his
+of a tun of wine costing Â£8, 0s. 4d.; while by the "advice of his
 council" the mayor distributed 20s. among "divers persons of the king's
 house."[256] Lord Rivers too had a glass of rose-water at the mayor's
 expense, whereof the cost was 2s.; thirteen years later his lordship
@@ -4205,7 +4179,7 @@ his death, maybe, the men of Coventry felt more free to choose what
 side they would, and the plunder wherein Margaret's host indulged after
 Wakefield (December 14) and S. Alban's (February 17, 1461) completed
 their alienation from the Lancastrian party. The Yorkists had now
-the upper hand in the city. After the battle of S. Alban's £100 was
+the upper hand in the city. After the battle of S. Alban's Â£100 was
 collected throughout the wards for men to go to London with "the earl
 of March,"[273] who, since his father's death at Wakefield, had become
 the hope of the Yorkist cause. On the day after his coronation (March
@@ -4216,7 +4190,7 @@ rule." He thus assured the support of the people of the place, and
 on the terrible field of Towton, where "the dead hindered the living
 from coming to close quarters," the men of Coventry fought under the
 standard of the Black Ram in the Yorkist ranks. The _Leet Book_ tells
-us that £80 was collected throughout the wards for the 100 men "which
+us that Â£80 was collected throughout the wards for the 100 men "which
 went with oure soverayn liege lord kyng Edward the IIIIthe to the
 felde yn the north."[274]
 
@@ -4231,7 +4205,7 @@ ancient ensign. As a contemporary ballad has it:--
  The George cam fro Nottingham, with spere for to fyte."[275]
 
 The citizens certainly continued to deserve the King's favour. They
-presented him with £100 and a cup to his "welcome to his cite of
+presented him with Â£100 and a cup to his "welcome to his cite of
 Coventre from the felde yn the North,"[276] and decorated the city
 with pageants and goodly shows in his honour, the smiths' craft
 providing the character of Samson, who no doubt gave in appropriate
@@ -4244,7 +4218,7 @@ amity between himself and the citizens. So vivid was the remembrance
 of the plundering of Margaret's army, that the old loyalty towards
 the Lancastrians turned to rancour. And the same spring, on the
 King-maker's coming--the first important mention of him in the city
-annals--£40 was collected to be given to him for the payment of forty
+annals--Â£40 was collected to be given to him for the payment of forty
 men that went to the north to resist "kyng Herry and quene Marget
 _that were_, and alle other with theym accompanyed, as Scottes and
 Frenchemen, of theyre entre yn to this lande." The mere whisper of a
@@ -4277,7 +4251,7 @@ known as the Black Prince's helmet, is in S. Mary's Hall.]
 
 [Footnote 242: _Leet Book_, 263.]
 
-[Footnote 243: MS. Coïalte: this contraction will be henceforth written
+[Footnote 243: MS. CoÃ¯alte: this contraction will be henceforth written
 in full. I deviate from the MS. in putting capital letters to proper
 names, and in writing these in full wherever contractions occur. I have
 also substituted small letters for capitals whenever the latter would
@@ -4346,7 +4320,7 @@ present.]
 
 [Footnote 266: Fat.]
 
-[Footnote 267: Rous, _Hist. Reg. Angliæ_ (Hearne), 120.]
+[Footnote 267: Rous, _Hist. Reg. AngliÃ¦_ (Hearne), 120.]
 
 [Footnote 268: _Leet Book_, 308.]
 
@@ -4457,7 +4431,7 @@ over to keep the peace, was "set at his large," or released.
 
 Owing to these repeated attacks, as well as to the unsettled state of
 the kingdom, things had not prospered with the Coventry corporation.
-They were in 1468 £800 in arrear of their annual ferm of £50. The
+They were in 1468 Â£800 in arrear of their annual ferm of Â£50. The
 sheriff was ordered to seize the goods of the mayor and men of the
 place as distress. He could find no more than 106s. worth of goods,
 and these "remained on his hands for lack of buyers," "and since the
@@ -4469,7 +4443,7 @@ were bodies possessed of great wealth, though upon their funds the
 exchequer had no claim, thanks to the astuteness of the corporation
 in thus disposing of its possessions. But no doubt the resources both
 of guilds and townsmen were failing, even as those of the monastery,
-for in 1466 the prior was £550 in arrears to the Crown for the rent
+for in 1466 the prior was Â£550 in arrears to the Crown for the rent
 of the Earl's-half; his tenants in the city must therefore have been
 backward in paying the rent due to the priory treasury. And to add to
 the general confusion in 1469 the commonalty rose crying that they were
@@ -4915,7 +4889,7 @@ and wyn and other vitailes that was hadde to Maister Onleys, he then
 beyng mair, at the comyng of Kyng Henre," the most expensive items of
 the account being "i pype claret wyn iii li., i pype redde wyn iii
 li.," with "xx motons," "ii oxen," and 7 "stockfishes," the price of
-which made a total of £4, 13s. 6d. It is true that the citizens, with
+which made a total of Â£4, 13s. 6d. It is true that the citizens, with
 their old supreme indifference to political party, also supplied bread
 and ale "to the feld of Kyng Richard,"[328] and one of their number
 fought, we know not on which side, at Bosworth, for the accounts record
@@ -5054,7 +5028,7 @@ Tyburn.[345]
 The "King's Proceedings" of 1536 undoubtedly intensified the misery of
 the citizens. The monastery was dissolved by the royal commissioners;
 the cathedral church defaced and its roof pulled off, and the lead,
-worth £647, stacked within the desecrated building;[346] the house
+worth Â£647, stacked within the desecrated building;[346] the house
 of the Franciscans razed "because the poor people lay so sore upon
 it;[347] and all monastic property seized into the King's hand."
 Dugdale, quoting Hales' letter to the Protector Somerset, attributes to
@@ -5072,7 +5046,7 @@ brought the citizens to the verge of ruin. So extensive was the house
 property belonging to the guilds, and so intimately were these bodies
 connected with the corporation, that this calamity involved the city
 finances in the most terrible confusion. Having no property from which
-to draw the money for the annual fee-ferm of £50, one or two persons,
+to draw the money for the annual fee-ferm of Â£50, one or two persons,
 the citizens declared to the Earl of Warwick, were yearly ruined by
 the tax levied for its payment.[350] The poorer class--of late years
 greatly increased in numbers--were deprived of the guild charities, the
@@ -5090,7 +5064,7 @@ supported, nor God's service done therein, and the other uses and
 employments of those lands omitted, should be of force constrained to
 abandon the city and seek new dwelling places."[352] This energetic
 protest was not without its effect. The citizens were permitted to
-purchase back the guild lands for the sum of £1315, 1s. 8d., a very
+purchase back the guild lands for the sum of Â£1315, 1s. 8d., a very
 large amount in those days,[353] which, in spite of their poverty, they
 were enabled to gather together.
 
@@ -5206,7 +5180,7 @@ the city again put on that busy, eager, thriving look which must have
 distinguished it under the later Plantagenets. The cycle manufacture
 has won back for the city some of the prosperity it once enjoyed. But
 nothing can bring back the pomp and grandeur and the semi-independence
-of mediæval times; neither can the modern builder lend it any of the
+of mediÃ¦val times; neither can the modern builder lend it any of the
 consistent beauty of the architecture of the Middle Ages. Still, unlike
 Abingdon, Winchester, or S. Alban's, it is a town with a present to
 work in, as well as a past on which to look back. As for the future,
@@ -5232,7 +5206,7 @@ escape of offenders fleeing from town justice, see Green, i. 311.]
 keep an eye on Warwick's movements (Ramsay, ii. 327).]
 
 [Footnote 285: _Leet Book_, 343. The mayor, William Saunders, dyer,
-gave £5 to the collection of money for the soldiers, so that poor
+gave Â£5 to the collection of money for the soldiers, so that poor
 people might be spared (_Ib._, 344). Either owing to the fact that the
 cause was unpopular, or that the people were weary of war, soldiers
 could not be had under 10d. a day. The air at this time was filled with
@@ -5351,7 +5325,7 @@ April 2.]
 [Footnote 326: _Leet Book_, 523-4.]
 
 [Footnote 327: Fretton, _Mayors of Coventry_, 12. They presented him
-with £100 and a cup.]
+with Â£100 and a cup.]
 
 [Footnote 328: _Leet Book_, 530-2. It is not quite certain that the
 words are to be understood as implying that the citizens fed Richard's
@@ -5571,7 +5545,7 @@ one for Coventry. The mayor, William Saunders, a dyer, one of a craft
 which had often been, and was again often to be, at variance with the
 corporation, seems to have had leanings towards the popular side. Wars
 and rumours of wars brought some distress upon the city, and the mayor
-gave £5 "in relesynge of pore men that shuld have bor her part" towards
+gave Â£5 "in relesynge of pore men that shuld have bor her part" towards
 defraying the cost "for fifty men to go to York to the king against
 Robin of Redesdale," for Warwick's party were rising in rebellion, and
 the soldiers, weary of war, demanded the unheard of sum of 10d. a day
@@ -5834,9 +5808,9 @@ give them their wages, Laurence saying "presumptously" to the mayor
 that "those that set them awork shuld pay for him." The two officers
 were there and then committed to prison, where they lay for a week. In
 the end the petitions of their friends obtained a release. Both were,
-however, bound in £40 to abide by the decision of the mayor and council
-as to their punishment. The mayor and council fixed upon a fine of £10,
-and of this they afterwards gave back £6 to the two chamberlains, a
+however, bound in Â£40 to abide by the decision of the mayor and council
+as to their punishment. The mayor and council fixed upon a fine of Â£10,
+and of this they afterwards gave back Â£6 to the two chamberlains, a
 piece of liberality which shows that the town rulers knew their cause
 was weak, or thought it impolitic to push Saunders to extremities while
 such a strong feeling in his favour existed throughout the city.
@@ -5892,7 +5866,7 @@ succeeded to the recordership in 1456, in the room of Thomas Littleton,
 of famous memory. It was Boteler who, according to the petition, kept
 Saunders and Hede in prison over the day of the Easter leet, and "wolde
 in no wyse suffre" them "to speke a worde for the said comown." He,
-too, urged on them the signing of the recognisance in £40 "to obbeye
+too, urged on them the signing of the recognisance in Â£40 "to obbeye
 the meirs commandements" about the pinfold charges, although the
 chamberlains "grudged" to do so, "in so moche as they were solemply
 sworen to the contrarie." And from this bond he would not release them,
@@ -5949,7 +5923,7 @@ to pay for the cost of the journey. There was a goodly following
 of servants, bringing up the number to forty-four persons in all,
 for the worshipful folk travelled luxuriously, and to secure their
 comfort a cook and a harbinger were of the company. The cost of the
-journey--amounting to £15, 11s. 11d.--was afterwards, by decree of
+journey--amounting to Â£15, 11s. 11d.--was afterwards, by decree of
 the mayor and council, discharged by Laurence Saunders. There is
 nothing related of the proceedings of the case, save that the decision
 was against Laurence. The _Leet Book_ says, as openly was proved,
@@ -5963,7 +5937,7 @@ council, and divers "commons" assembled in S. Mary's Hall, Laurence, it
 is said, knelt down and besought the mayor's forgiveness, acknowledging
 his wrong-doing. He was then committed to ward. After a little time
 his friends' intercession prevailed, and he was allowed to leave the
-prison, being bound in £500 to appear at the next quarter sessions. The
+prison, being bound in Â£500 to appear at the next quarter sessions. The
 bond, too--for the corporation were little inclined to allow further
 complaints to royalty--was to be renewed "till content wer' had" of his
 "sadde demeasnyng."
@@ -6006,7 +5980,7 @@ misdoers at law. Again he was met by a front of stolid ignorance. The
 mayor and community remembered no such breaking, or any hindrance to
 the prior's suit, which he was at liberty to pursue. Grievances Deram
 had to pour forth in plenty. The town wall was built on his land, he
-complained, though his payment of £10 for murage, of pure good will,
+complained, though his payment of Â£10 for murage, of pure good will,
 for repairing the town wall outside his ground entitled him to some
 consideration in this matter. The folk of the city gave him hourly
 torment. They broke down his underwood, birches, holly, and hawthorn
@@ -6180,7 +6154,7 @@ his party, no doubt, whose memories reached to bygone times--it was
 indignantly refused him. The mayor and council would never stoop so low
 as to furnish all chance comers with the means of cavilling at their
 proceedings! Then Laurence Saunders burst forth into "untoward" speech,
-asking to be released from his bond (the £500?), and showing he would
+asking to be released from his bond (the Â£500?), and showing he would
 not "otherwise be ruled than after his own will." The matter was shown
 to the lords of the prince's council, then tarrying in Coventry. By
 their advice Laurence was committed to the "porter's ward" the Saturday
@@ -6191,10 +6165,10 @@ warde for his disobeysaunce and for commocions made among the pepull;
 they bad hym be war, for yf he cam the IIIde tyme in warde for such
 matiers, hit shulde cost hym his hedde." The warning was not without
 its effect. Laurence, for the second time, made a full submission, and
-also signed a "statute merchant," this time in £200, undertaking that
+also signed a "statute merchant," this time in Â£200, undertaking that
 he would be "of good bearing to the mayor and his successors ... for
 ever"; and four craftsmen, who dwelt near him in Spon Street,[418] were
-responsible for his conduct in half this sum. Of the fine of £10, which
+responsible for his conduct in half this sum. Of the fine of Â£10, which
 they exacted from him, half was in course of time to be given back, if
 his submissive temper showed signs of lasting. It might well be thought
 he would not again question the high ways of the corporation, for by so
@@ -6329,7 +6303,7 @@ assembled in the Cross Cheaping or market place: "Come, Sirs, and take
 the corn who so wyll, as your owne."[438] The whole proceeding utterly
 scandalised the mayor and his worshipful brethren. On the "Wednesday
 after the Exaltation of the Holy Cross" they committed Laurence to
-prison, and fixed his fine at £40. For months he lay there, while two
+prison, and fixed his fine at Â£40. For months he lay there, while two
 friends, whose names were Alexander Horsley and Robert Barlow,[439]
 were surety for the payment of this great sum. But this amount meant
 ruin, and drove Laurence's party to fury. The mayor and council had
@@ -6340,7 +6314,7 @@ or for the commission of new ones, wiped out his name from among the
 number of the rulers of the city. Laurence Saunders was "discharged,"
 the order ran, "from the mayor's council, the common council, and all
 other councils ... taken and kept within this city for the welfare of
-the same," and forbidden under the penalty of £40 ever to ride out with
+the same," and forbidden under the penalty of Â£40 ever to ride out with
 the chamberlains on Lammas day.[440]
 
 It was an old custom in Coventry to nail up all announcements, which
@@ -6378,10 +6352,10 @@ at this time that the ill-behaviour of John Smith and John Duddesbury
 to "men of worship" caused the offenders to be watched so closely--the
 corporation felt some anxiety. At least they thought it prudent to
 relieve Laurence of the payment of half of the fine they had laid
-upon him. Of the remaining sum half was paid by the sureties, but £10
+upon him. Of the remaining sum half was paid by the sureties, but Â£10
 was yet due, and in 1496 Saunders appealed to the King. The fruit of
 his solicitings was a privy seal, addressed to the mayor and sheriffs
-asking them in charity to take £10 and remit the rest of the fine,
+asking them in charity to take Â£10 and remit the rest of the fine,
 as Laurence was now old and fallen into poverty.[443] There was
 one sentence in the letter very little to the recipients' liking.
 The King ordered the mayor "to do right" in a variance concerning a
@@ -6389,7 +6363,7 @@ common pasture which Laurence had informed his grace to be in the
 city; "where," as the "men of worship" declared with righteous anger,
 "no such variance was." It would be folly indeed to smooth the lot of
 Laurence Saunders or release his friends from their bond. So the great
-culprit having paid £10 and his sureties a like sum, matters must be
+culprit having paid Â£10 and his sureties a like sum, matters must be
 set right at Court, and the appeals of Laurence and his party made of
 no effect. So a "writing of the great and many offences of the said
 Laurence" was sent to Master Richard Empson, who was then in London, to
@@ -6501,7 +6475,7 @@ to say:--
 Matters remained for some time at a standstill; then at last, early in
 November, Laurence's "labour and busy suit" brought two privy seals,
 containing full directions, to Coventry.[447] The mayor was required
-to release the prisoner after taking surety in £100, so that he might
+to release the prisoner after taking surety in Â£100, so that he might
 appear before the King and council and state his case; while two or
 three of the mayor's brethren sufficiently instructed in the matters
 to be laid to his charge were to bear him company. At a meeting of the
@@ -6842,7 +6816,7 @@ CHAPTER XIII
 _The Companies of the Crafts_
 
 
-The men of Coventry, a city which, in later mediæval times, stood
+The men of Coventry, a city which, in later mediÃ¦val times, stood
 fourth among the wealthy towns of England,[451] gained a livelihood
 by the buying and selling of wool and the making of cloth.[452] As
 early as 1398 the traffic in the frieze of Coventry[453] extended
@@ -6852,7 +6826,7 @@ Stralsund, on the Baltic Coast,[454] and in London and other places the
 cloth was in great request during the fifteenth and early sixteenth
 centuries.
 
-The men of mediæval Coventry naturally attached great importance to
+The men of mediÃ¦val Coventry naturally attached great importance to
 the maintenance and extension of the cloth trade in view of the wealth
 it brought. Special buildings were set apart for the staple traffic of
 the city. The Drapery and the Wool-hall, both in Bayley Lane, under the
@@ -6970,7 +6944,7 @@ possessed of a certain amount of wealth, could rise to a high place in
 the corporation. Men were ranked according to the amount of property
 in their possession, and to speak of a citizen as "of the degree of a
 mayor" or "bailiff," conveyed as definite an idea as the assertion that
-"So-and-so has a fortune of £20,000 or £30,000," would convey to our
+"So-and-so has a fortune of Â£20,000 or Â£30,000," would convey to our
 minds at the present date.
 
 This body of wealthy merchants, in whose hands was vested all control
@@ -7106,7 +7080,7 @@ occupation for girdlers and cardmakers only. Furthermore, the leet
 decreed that their two last-named crafts should by "no colour ne sotell
 imagynacion 'sell or buy' no cardwyre ne mystermannes wyre, the whiche
 may be hynderying or grevying to the kinges lege pepull 'under pain of
-£20.'"
+Â£20.'"
 
 The craftspeople, however, occasionally resented municipal
 interference, and endeavoured by all means within their power to get
@@ -7339,7 +7313,7 @@ years as apprentice to the handicraft;[504] and a journeyman capper
 was compelled to certify the cause of leaving his late master to the
 satisfaction of the masters of the craft.[505]
 
-These are some points connected with the life of mediæval craftsmen.
+These are some points connected with the life of mediÃ¦val craftsmen.
 Although so much has been written on the economical, social, and
 religious aspects of the subject, we are still very ignorant as to the
 actual workings of the craft system. Modern industry seems to have
@@ -7360,7 +7334,7 @@ assigned to the sale of cloth. See _undated_ deed Corp. MS. C. 40.]
 
 [Footnote 453: _Rot. Parl._, iii. 437.]
 
-[Footnote 454: _Literæ Cantuarienses_ (Rolls Series, 85), iii. 81.]
+[Footnote 454: _LiterÃ¦ Cantuarienses_ (Rolls Series, 85), iii. 81.]
 
 [Footnote 455: See above, p. 202.]
 
@@ -7443,7 +7417,7 @@ made by the said dyers and all other unlawful ... ordinance made in
 every other craft ... and the unlawful oaths and writings made for
 the same be utterly void, quashed and annulled." None were in future,
 the order continues, to be bound by these rules, and masters suing
-others of their fellowship for not obeying them were to be fined £10.
+others of their fellowship for not obeying them were to be fined Â£10.
 The largeness of the sum, and the fact that precautions were taken to
 have this order proclaimed once a year, "so that craftsmen might have
 knowledge" of the penalties incurred by any breach of the same, prove
@@ -7469,9 +7443,9 @@ that a rule had been observed without the mayor's knowledge and licence
 [Footnote 481: _Leet Book_, 92.]
 
 [Footnote 482: _Ib._, 573. In a later version of the rule (_Ib._) this
-matter is worked out in detail. Each apprentice put in surety in £5
+matter is worked out in detail. Each apprentice put in surety in Â£5
 to perform his covenant. If the lad broke it, it was only by handing
-over the £5 to the craft that the master could immediately take an
+over the Â£5 to the craft that the master could immediately take an
 apprentice in his place.]
 
 [Footnote 483: _Leet Book_, 687.]
@@ -7575,7 +7549,7 @@ Cattle[509] and ducks wandered hither and thither; fishmongers' stalls
 stood in the middle of the streets, greatly to the hindrance of the
 passers-by, whether horsemen or pedestrians;[510] while inn signs[511]
 had perforce to be limited in length, lest they should strike the heads
-of unwary riders in the by-lanes of the city. But the mediæval trader
+of unwary riders in the by-lanes of the city. But the mediÃ¦val trader
 was well inured to inconvenience. Neither did noise distract him,
 though taverners and cooks standing at the door offered good things
 hot from the oven to passers-by, each seeking to cry louder than his
@@ -7670,7 +7644,7 @@ to pour a tale of hope deferred into the ears of the disappointed King.
 
 [Illustration: ORIEL WINDOW AND STOCKS. S. MARY'S HALL]
 
-There were many sights in a mediæval city to remind us that men seldom
+There were many sights in a mediÃ¦val city to remind us that men seldom
 cared to cloak their brutality in those days. The stocks, where
 offenders were held by their feet, the pillory, where they were held
 by the head and hands, stood conspicuous, probably in neighbourhood
@@ -7746,7 +7720,7 @@ to say nothing of blocking them with all imaginable obstructions,[531]
 they were more like evil-smelling swamps than highways fit for traffic.
 
 Measures, somewhat primitive in character,[532] were taken to guard
-against an outbreak of fire, which so frequently wasted mediæval
+against an outbreak of fire, which so frequently wasted mediÃ¦val
 cities, where the plaster and timber of the houses, with their
 projecting storeys almost touching one another across the narrow
 streets, afforded excellent fuel for the flames. A stone house was
@@ -7771,7 +7745,7 @@ were answerable for so many disturbances in Coventry.
 
 For here as elsewhere this important class of townsfolk made great
 profit out of the "pence of the poor," in spite of law and ordinance.
-One of the great problems facing mediæval legislators and local
+One of the great problems facing mediÃ¦val legislators and local
 authorities was the task of ensuring the natural price of provisions.
 "No police of the Middle Ages," says Thorold Rogers, "would allow a
 producer of the necessaries of life to fix his charges by the needs
@@ -7838,7 +7812,7 @@ their trade, the whole craft "struck" with the greatest unanimity, and
 leaving the city "destitute of bread," took sanctuary at Bagington, a
 village about four miles distant. Night, however, brought counsel, and
 they submitted next day to the mayor, paying for their lawlessness a
-fine of £10.[545] As for the brewers in the sixteenth century, they
+fine of Â£10.[545] As for the brewers in the sixteenth century, they
 found their calling so lucrative that others were thereby encouraged
 to forsake their occupations and take up this profitable trade. At
 that time, said the worthy men of the leet in 1544, "divers of the
@@ -7852,7 +7826,7 @@ prices.[546]
 Regulations, however, affected this powerful and wealthy class but
 little, and in listening to the ever-renewed complaints against them we
 begin to realize the universal detestation in which they are held in
-the Middle Ages. Mediæval imagination, with its love of the grotesque,
+the Middle Ages. MediÃ¦val imagination, with its love of the grotesque,
 delighted to picture the unhappy end of those who bade defiance to the
 laws of God and man. How hardly shall an alewife, thought the Ludlow
 artist, "enter the kingdom of Heaven," and in carving the _miserere_ of
@@ -7950,7 +7924,7 @@ come to light, must have taken place unnoticed in the busy crowd. The
 prior of Sulby, in terror of the rapacity of Henry VIII., sold his
 cross-staff to the wife of a London goldsmith at Coventry fair one
 Corpus Christi day, just as the monks of Stoneley--provident men--about
-this time disposed of a silver censer, and other things "worth £14 or
+this time disposed of a silver censer, and other things "worth Â£14 or
 thereabouts," to Master John Calans, goldsmith, of Coventry.[562] Maybe
 the spare scholar might there be seen, as at the fair of S. Frideswide,
 at Oxford, counting the few coins his purse contained to find out
@@ -7966,12 +7940,12 @@ keenly enjoying a bargain over some pewter vessels, or article of
 More important transactions than these frequently took place, and
 not at fair time only but throughout the year, as the records of
 the mayor's court of Statute Merchant clearly show. The amount of
-the various purchases was, when viewed from a mediæval standpoint,
+the various purchases was, when viewed from a mediÃ¦val standpoint,
 very large; a "gentilman" of Attleborough, for instance, in 1415,
 acknowledges that he is bound to certain Hinckley folk and others "in
-ducentis libris" (£200 sterling), while a Dublin merchant, Dodenhall,
+ducentis libris" (Â£200 sterling), while a Dublin merchant, Dodenhall,
 without doubt a connection and kinsman of the Coventry mayors of that
-name, owed in 1394 a fellow-merchant of the latter place £210, money
+name, owed in 1394 a fellow-merchant of the latter place Â£210, money
 which he did pay before distress was levied upon him. The following,
 however, would be a more usual example of recognition of debt: "On
 the eighteenth day of the month of February, in the third year of
@@ -8019,7 +7993,7 @@ from the same source we could gather a hint of popular political
 feeling at a later date. The jubilant cavalier would swing his sign of
 the _Royal Oak_ at the Restoration, and the staunch adherent of the
 "Great Commoner" flaunt his _Old King of Prussia_ in the next century,
-just as surely as the mediæval inn-keeper decorated his sign with the
+just as surely as the mediÃ¦val inn-keeper decorated his sign with the
 _White Hart_, _White Boar_, or _Bear and Baculus_, in honour of his
 patrons Richard II., Richard III., or the Earl of Warwick. Famous old
 inns in Coventry were the _Crown_, in "platea vocata Brodeyatys" hard
@@ -8053,7 +8027,7 @@ when their goods were upon the landing stage. Many times did Adam and
 William Botoner serve in the mayor's office, and their donations to the
 church, to town guilds, murage funds, and the like are numberless. As
 for the great tower of S. Michael's steeple that the brothers built,
-tradition credits them with spending £100 every year for twenty-one
+tradition credits them with spending Â£100 every year for twenty-one
 years upon the work.[575] In the early part of the fifteenth century
 the family entered the ranks of the country landowners by the purchase
 of an estate at Withybrook. Not only at Bristol, but at Southampton,
@@ -8089,7 +8063,7 @@ apportioned what spoil they took "to each according to his rank."[580]
 
 But foreigners were quick at reprisal when debts were owing to them, or
 any injury had been done by English merchants. And the proud traders
-of Lübeck and Bergen, members of the Hanseatic League, who warred with
+of LÃ¼beck and Bergen, members of the Hanseatic League, who warred with
 and dictated to kings, were especially sensitive in this respect.
 This may be seen by the fate which befell Laurence Cook, afterwards
 twice mayor of Coventry, in the days of his apprenticeship to William
@@ -8099,10 +8073,10 @@ they lay in the ship of one Thomas Herman, of Boston, in the port of
 Stralsund, certain allies of the League, who had some grudge against
 the English traders, fell upon the apprentices, beat and wounded them
 _minus juste_, taking moreover from the ship 240 dozen pieces of
-cloth of divers colours, Bedforth's property, valued at £200; "much
+cloth of divers colours, Bedforth's property, valued at Â£200; "much
 merchandise" belonging to Cross, worth half the sum, and other pieces
-of cloth, exported by a third Coventry merchant, valued at £50.[581]
-Such incidents as these were not uncommon in the lives of mediæval
+of cloth, exported by a third Coventry merchant, valued at Â£50.[581]
+Such incidents as these were not uncommon in the lives of mediÃ¦val
 merchants, and for the making of a successful trader it was necessary
 that a man should have a dash of the warrior and a great deal of the
 adventurer in his composition. Trained by exposure to such perils by
@@ -8117,7 +8091,7 @@ and lo! when it was opened it was found to contain ingots of silver,
 treasure brought perhaps from over the Spanish main. The servant, not
 knowing of whom he bought them, Mr Wheatley--honest man--kept them
 for a time, but as no inquiry was ever made, he gave the profits,
-amounting with contributions from the city to £96 a year, to the
+amounting with contributions from the city to Â£96 a year, to the
 maintenance of twenty-one boys at a school at Bablake, an institution
 which exists and thrives even to this day. This benefactor, the "Dick
 Whittington" of Coventry, is a person of whom we would gladly learn
@@ -8156,20 +8130,20 @@ each couple receiving 7-1/2d. a week for their maintenance.[585]
 But it was not the welfare of the aged alone which absorbed the charity
 of these merchants. To John Haddon, draper, is due the honour of
 initiating the system of granting loans to young freemen to aid them
-in beginning commercial life. By his will (1518) he bequeathed £100 to
+in beginning commercial life. By his will (1518) he bequeathed Â£100 to
 be distributed among men of the drapers' fellowship--poor clothmakers
-the _Leet Book_ calls them--in loans of £5 each, to enable them to buy
+the _Leet Book_ calls them--in loans of Â£5 each, to enable them to buy
 wool or cloth, for the cloth trade at that time was undergoing a period
-of great depression in Coventry, and £100 to be similarly divided in
-£4 loans among young freemen of all occupations; all loans, free of
+of great depression in Coventry, and Â£100 to be similarly divided in
+Â£4 loans among young freemen of all occupations; all loans, free of
 interest, to be repaid at the end of first year.[586] His example
 had numerous imitators;[587] but undoubtedly the gifts of Sir Thomas
 White, mayor of London and founder of S. John's College, Oxford,
 whom Mary knighted for his loyalty at the time of Wyatt's rebellion,
 surpassed the rest. At the time of their greatest need, in 1543, he
-lent the corporation £1400, wherewith they purchased certain lands and
+lent the corporation Â£1400, wherewith they purchased certain lands and
 tenements confiscated at the Reformation, and they agreed to distribute
-£40 arising from the rents of the tenements in loans to apprentices
+Â£40 arising from the rents of the tenements in loans to apprentices
 of the city for nine years' use.[588] From some cause or other,
 probably by reason of his great and numerous acts of benevolence, and
 the backwardness of the corporation in paying a promised annuity, Sir
@@ -8177,8 +8151,8 @@ Thomas fell into poverty in his later years, and seems to have been
 utterly cast down by the thought that his wife would be left without
 provision. "Whereas I have gently written unto you heretofore," he
 writes in 1566 to the mayor and corporation, "to let my wife have her
-annuity of £46 for part of her jointure, I require you as you shall
-answer before God at the day of judgment that you lett my wife have £24
+annuity of Â£46 for part of her jointure, I require you as you shall
+answer before God at the day of judgment that you lett my wife have Â£24
 assured to her during her life." Two days after another letter betrays
 his unbearable anxiety on this subject. If the mayor and corporation
 are not able to perform the undertaking with regard to the jointure, "I
@@ -8222,7 +8196,7 @@ gruche ne move the contrari, but that every man of this cite be at
 hys fre chosse (choice) to sette his chylde to skole at what techer
 of gramer that he likyth, as reson askyth."[595] No doubt the town
 school continued to prosper, for we find at the time of the suppression
-of the chantries of 1543 that the Trinity guild paid £6, 13s. 4d. as
+of the chantries of 1543 that the Trinity guild paid Â£6, 13s. 4d. as
 a yearly salary to the schoolmaster. All this general activity in
 education goes to prove that the men of the later Middle Ages were not
 the illiterate boors historians have loved to imagine. The knowledge of
@@ -8518,9 +8492,9 @@ father was a standard-bearer in the English army.]
 
 [Footnote 579: Rogers, _Six Cent._, 99.]
 
-[Footnote 580: _Archæological Journal_, iv. 69.]
+[Footnote 580: _ArchÃ¦ological Journal_, iv. 69.]
 
-[Footnote 581: Sheppard, _Litteræ Cantuarienses_ (Rolls Series, 85),
+[Footnote 581: Sheppard, _LitterÃ¦ Cantuarienses_ (Rolls Series, 85),
 iii. 81.]
 
 [Footnote 582: Besant and Rice, _Sir Richard Whittington_.]
@@ -8645,7 +8619,7 @@ to the window-glow they beheld amid the company of the saints scenes
 taken from local legend, the old compact for the freedom of the market
 between Leofric and Godiva, the blazoning of the arms of founders
 and benefactors, and the insignia of trade and craft.[606] For the
-mediæval artist saw no firm line sundering the things of religion from
+mediÃ¦val artist saw no firm line sundering the things of religion from
 the affairs of daily life, and the people did not care to keep their
 civic patriotism and inspirations solely for the guild-hall. In the
 aisles and chapels lay the most honoured of the city dead; Bond and
@@ -8752,7 +8726,7 @@ more staunchly Puritan town than Coventry under the Stuarts.
 
 In the sixteenth century the corporation appear to have become
 disquieted at the reckless lives and illicit amusements of those over
-whom they ruled. A new era was about to dawn, wherein mediæval barriers
+whom they ruled. A new era was about to dawn, wherein mediÃ¦val barriers
 would be broken down; and it seems as if the discreet and worthy
 burghers were afraid of the lawlessness and unrest which had entered
 into the spirit of society, and which in itself was the sign of coming
@@ -8867,7 +8841,7 @@ the wisdom of the mayor and his discreet council, by the drinking of
 a certain amount of ale among the fellowship of both crafts at their
 joint expense.[636]
 
-But few pleasures appealed to the mediæval citizen so strongly as that
+But few pleasures appealed to the mediÃ¦val citizen so strongly as that
 of dining well; and besides these peace-promoting drinkings there were
 many occasions whereon members of guilds and crafts met together to
 feast and do their best to justify the reputation, which still clings
@@ -8881,7 +8855,7 @@ while the brethren of the Trinity guild celebrated the Assumption and
 S. Peter's Eve by a banquet and probably also the festival of the
 Decollation of S. John. The Corpus Christi had a "Lenton" dinner, a
 "goose" dinner in August, and a "venison" one in October,[637] and
-in 1492 they spent £26, 0s. 4d. on their feasts, a sum only 13s. less
+in 1492 they spent Â£26, 0s. 4d. on their feasts, a sum only 13s. less
 than the annual stipend due to the five priests supported by the
 guild.[638] But the record of common feasting is not yet exhausted. The
 members of the Corpus Christi fraternity met together at a breakfast
@@ -8917,10 +8891,10 @@ friends."[642]
 
 It is good to dwell on this scene of frank gaiety and open-handed
 hospitality, the pleasantest, to my thinking, that has come to us from
-mediæval times. The dusk lighted by the flicker of the bonfires, the
+mediÃ¦val times. The dusk lighted by the flicker of the bonfires, the
 flower-wreathed houses, the merry groups, the hand-clasp in token of
 reconciliation, what a picturesque glimpse we have here of common union
-and common joy to which our fêtes and holidays nowadays can afford no
+and common joy to which our fÃªtes and holidays nowadays can afford no
 parallel!
 
 But the chief glory of these festal nights was the setting forth of the
@@ -9154,7 +9128,7 @@ traditional cycle, such as the play of S. Catherine acted in 1491, or
 that of S. Crytyan or Christian, "magnus ludus vocatus seynt Xpeans
 pley,"[673] performed at Whitsuntide in 1505, took place in the Little
 Park where space was ample. That a regular open-air amphitheatre was
-constructed--such as the _plân an guare_ which survives at S. Just in
+constructed--such as the _plÃ¢n an guare_ which survives at S. Just in
 Cornwall, is improbable; the Park-Hollows, where later Lollard and
 Marian martyrs suffered death, would maybe serve aptly for the purpose.
 Such an indelible impression did S. Christian's play make on those that
@@ -9191,7 +9165,7 @@ birth and seventy-seven years before the beginning of his scholastic
 life at Coventry.
 
 It is also on the slenderest grounds that the historian of Warwickshire
-attributes the fifteenth century MS. of the _Ludus Coventriæ_ to the
+attributes the fifteenth century MS. of the _Ludus CoventriÃ¦_ to the
 Franciscans of that city. The first possessor of the manuscript was
 one Robert Hegge of Durham, after whose death in 1629 it appears to
 have passed into Cotton's possession and is still included in the great
@@ -9204,7 +9178,7 @@ but still alluded to the plays as represented by mendicant friars.
 
 Here the matter must rest. Probably the last word has still to be said
 on the subject. Scholars are not agreed on the _locale_ of the _Ludus
-Coventriæ_ which have been assigned to districts as far removed as
+CoventriÃ¦_ which have been assigned to districts as far removed as
 the northeast midlands and Wiltshire, or to their actors, who have
 been represented as strolling players, or even Coventry friars "on
 tour."[681] We might be disposed to accept--with caution--the view,
@@ -9358,7 +9332,7 @@ offering at the Temple.
 Finding the task inevitable, he murmurs that "the weakest go ever to
 the wall," and appeals for sympathy to the audience, particularly to
 the husbands of young and headstrong wives in the traditional manner
-beloved by mediæval play-goers,
+beloved by mediÃ¦val play-goers,
 
  "How sey ye all this company
  Thatt be weddid asse well asse I?
@@ -9388,7 +9362,7 @@ buffoonery was tinged with the memory of the wild frolic of the ancient
 Christmas festivals, the feast of the Ass and the feast of Fools.[693]
 
 "It out-herods Herod," says Shakespeare, the professional player, in
-scorn of the amateur of the old régime. But the rant Herod utters is
+scorn of the amateur of the old rÃ©gime. But the rant Herod utters is
 gorgeous rant.
 
 How the children shuddered when he wielded his "bright brond" or
@@ -9459,7 +9433,7 @@ be regretted that _Doomsday_ has not survived, for the names of the
 persons represented are very suggestive; two demons, two spirits were
 among them, two "worms of conscience," three black--or damned--souls,
 and three white--or saved--souls, and a Pharisee.[700] The details
-of the stage property and payments abound in _naïf_ and grotesque
+of the stage property and payments abound in _naÃ¯f_ and grotesque
 allusions. Thus we learn that a "new hook" for hanging Judas was
 purchased at the cost of 6d.;[701] and one Fawston received 4d. for
 "coc croyng," presumably "to startle the penitent Peter."[702] Adam's
@@ -9609,7 +9583,7 @@ town ditch.[721] The summons went twice round the town according to the
 watch, we are told, in "right great charge and in special" to the poor
 folk, who had to leave their other occupations in consequence, besides
 paying their quota towards the taxes, which were necessarily heavy
-at that time. And the council hearing thereof ordered that £12, 10s.
+at that time. And the council hearing thereof ordered that Â£12, 10s.
 should be collected from "thrifty" men to pay for the work, and the
 poor people spared, save that labourers earning 4d. a day were to pay
 1d. or 2d. towards the required sum. In addition to their labour in the
@@ -9672,9 +9646,9 @@ numerous inconveniences attending the hiring of troops. In February
 number of men the burghers would provide in the event of an invasion
 of Scotland in the summer. After various discussions, commandings and
 countermandings, it was finally agreed that sixty men should be waged
-for the royal service for a quarter of a year at a cost of £148, 6s.
+for the royal service for a quarter of a year at a cost of Â£148, 6s.
 6d.; recruits were found and arrows and salets distributed amongst
-them. More, however, was to be wrung from the reluctant burghers; £40
+them. More, however, was to be wrung from the reluctant burghers; Â£40
 was collected from 180 of the "most sufficient" men of the town to
 provide horses and jackets for the soldiery.[725] But sixty archers
 were not deemed a sufficient contingent by the Court; and when in
@@ -9693,7 +9667,7 @@ spirit.
 
 But however onerous these duties may have been, the Coventry men were
 loyally proud of their city and citizenship. Albeit a traveller, the
-mediæval merchant loved, as he loved nothing else on earth, the small
+mediÃ¦val merchant loved, as he loved nothing else on earth, the small
 stretch of land enclosed by the walls of his native town. He or his
 ancestors had won and maintained at great cost the city's liberties,
 and he and they spared no pains to make it beautiful. Historians are
@@ -9715,7 +9689,7 @@ crosses in the market place. The fifteenth century glass in S. Mary's
 Hall, Coventry, still attests the skill of John Thornton, a native
 of the city, and one of the first acts of the council of Forty-eight
 was to decree that a cross should be set up in the Cheaping, which
-was done, though at a cost of £50.[728] In Coventry, as elsewhere,
+was done, though at a cost of Â£50.[728] In Coventry, as elsewhere,
 the rich merchants and craftsmen set carvers to carve the miserere
 seats--enjoying the grim humour these sometimes display, a quality
 which crops up everywhere in the fifteenth century, even now and
@@ -9932,14 +9906,14 @@ these visits make it important to insist on them.]
 
 [Footnote 655: The Shrewsbury mercers' guild imposed a fine on such of
 its members who missed the local procession through absence at Coventry
-fair. Chambers, _Mediæval Stage_, ii. 110.]
+fair. Chambers, _MediÃ¦val Stage_, ii. 110.]
 
 [Footnote 656: C. Mery Talys, lvi. (quoted Chambers, ii. 358).]
 
 [Footnote 657: Chambers, _op. cit._, ii. 362. Bateson, _Leicester_,
 III. 111, 120, 127, 137.]
 
-[Footnote 658: For this and the singing of the _Quem quæritis_, "whom
+[Footnote 658: For this and the singing of the _Quem quÃ¦ritis_, "whom
 seek ye?" we have a "stage direction" in the _Regularis Concordia_ of
 S. Ethelwold as early as Edgar's reign (959-79). See Chambers, ii. App.
 O.]
@@ -9955,7 +9929,7 @@ Coventry, Sharp, 48.]
 [Footnote 662: See Hardin Craig, _Two Coventry Corpus Christi Plays_,
 Early English Text Society, to which I am much indebted. The older work
 on this subject is Sharp's _Dissertation on the Dramatic Mysteries_.
-Chambers' _Mediæval Stage_ is very rich in Coventry material.]
+Chambers' _MediÃ¦val Stage_ is very rich in Coventry material.]
 
 [Footnote 663: See _Leet Book_, 205, for the case of the cardmakers,
 saddlers, painters and masons.]
@@ -10014,7 +9988,7 @@ Kent. _York Plays_, lxv.]
 
 [Footnote 679: An error, since Old Testament scenes are also included.]
 
-[Footnote 680: "Vulgo dicitur hic liber Ludus Coventriæ, sive ludus
+[Footnote 680: "Vulgo dicitur hic liber Ludus CoventriÃ¦, sive ludus
 Corporis Christi."]
 
 [Footnote 681: See Chambers, _op. cit._, ii. 416-22; Gayley, _Plays of
@@ -10025,7 +9999,7 @@ _Furnivall Misc._, 232-3.]
 described himself as a "professor of pageantry."]
 
 [Footnote 683: Mr Chambers suggests that, as the crafts admittedly
-altered and revised their plays, the _Ludus Coventriæ_ may be a
+altered and revised their plays, the _Ludus CoventriÃ¦_ may be a
 discarded version.]
 
 [Footnote 684: Leach in _Furnivall Misc._, 232.]
@@ -10097,7 +10071,7 @@ honour of S. George were performed at Lydd, New Romney, Bassingbourne
 
 [Footnote 714: Sharp, _op. cit._, 158.]
 
-[Footnote 715: Rous (_Hist. Regum Angliæ_, 105-6) ascribes it to the
+[Footnote 715: Rous (_Hist. Regum AngliÃ¦_, 105-6) ascribes it to the
 rejoicings on the death of Hardicanute. On Hock-tide, see Chambers, i.
 154-5.]
 
@@ -10403,7 +10377,7 @@ the squire, Master Thomas Essex, in armour, on the side farthest off;
 Dame Elizabeth, wearing a pedimental head-dress, her hands raised in
 supplication, in the middle. The dame, the date of whose death is
 unknown, as the tomb was erected in her lifetime, lived at Stivichall,
-near Coventry, and gave £140 for the support of the poor and repair
+near Coventry, and gave Â£140 for the support of the poor and repair
 of roads in the neighbourhood of the city. Master Swyllington, who
 was made recorder in 1515, doubtless discharged his duties with all
 faithfulness, but I know of no memorable event in which he figures
@@ -10478,7 +10452,7 @@ rough. They seem to fall into three classes, illustrating:--
 2. _The saints of the guild._
 
 3. _The certainty of death, and judgment to come_, illustrated by the
-favourite mediæval series, the _Dance of Death_.
+favourite mediÃ¦val series, the _Dance of Death_.
 
 They may be taken in the following order, beginning with the north
 wall:--
@@ -10609,7 +10583,7 @@ inner compartment of this chamber.
 
 If the council is not sitting, the hall-keeper will also show the
 much restored Mayoress's Parlour, on the upper floor. Here stands the
-mediæval chair of state, used on great occasions, probably by the mayor
+mediÃ¦val chair of state, used on great occasions, probably by the mayor
 and the master of the guild. Only half remains of this magnificent
 relic. No doubt the side where the guild-master took his seat was sawn
 off, cast aside as useless on the suppression of this "superstitious"
@@ -10625,7 +10599,7 @@ to be by Zucchero or Antonio More.
 
 As the Great Hall[743] served as a banqueting-hall for the Trinity
 guild, a flight of steps at the south end communicates directly with
-the kitchen. At the north end was a daïs, where the principal guests
+the kitchen. At the north end was a daÃ¯s, where the principal guests
 took their seats.
 
 The room was also used for municipal purposes, particularly when the
@@ -10966,7 +10940,7 @@ seventeenth century. See Bond, _Eng. Architecture_, p. 633.]
 
 [Footnote 740: Brooks, S. Michael's Church.]
 
-[Footnote 741: Memorials of the visit of the British Archæological
+[Footnote 741: Memorials of the visit of the British ArchÃ¦ological
 Institute in 1864. The kitchen is part of the original building, and
 belongs to the middle of the fourteenth century.]
 
@@ -11146,7 +11120,7 @@ INDEX
 
  Braytoft, Richard, 176
 
- Breauté, Faulkes de, 95-6
+ BreautÃ©, Faulkes de, 95-6
 
  Bredon, Friar John, opposes the hermit's preaching, 107;
    attacks monks, 276-8;
@@ -11482,7 +11456,7 @@ INDEX
 
  Dublin, 252 (note), 254
 
- Dugdale, Sir William, attributes the _Ludus Coventriæ_ to the Grey
+ Dugdale, Sir William, attributes the _Ludus CoventriÃ¦_ to the Grey
  Friars, 297
 
  Dunstable, 56, 276 (note);
@@ -11609,7 +11583,7 @@ INDEX
    habit of, 238;
    Isabella protects the, 97;
    supposed actors in pageants, 4, 296-8;
-   _see also_ Bredon, _Ludus Coventriæ_
+   _see also_ Bredon, _Ludus CoventriÃ¦_
 
  Frieze of Coventry, 212
 
@@ -11909,7 +11883,7 @@ INDEX
  Ludlow, castle of, 184, 188, 189, 196;
    _misericord_ in church at, 249
 
- _Ludus Coventriæ_, _see_ Pageants
+ _Ludus CoventriÃ¦_, _see_ Pageants
 
  Lullaby, 310
 
@@ -12075,7 +12049,7 @@ INDEX
    characters of Herod, Pilate and the devil in, 287, 303-5;
    minor characters in, 305-6;
    crafts evade contributions to, 292;
-   _Ludus Coventriæ_ probably unconnected with Coventry cycle of, 297-8;
+   _Ludus CoventriÃ¦_ probably unconnected with Coventry cycle of, 297-8;
    "Doomsday" or drapers', 129, 295, 300, 305, 306;
    liturgical drama and, 289;
    of girdlers, 300;
@@ -12704,7 +12678,7 @@ INDEX TO CHAPTER XVI.
 
 
 Advertisements
-_The Mediæval Town Series_
+_The MediÃ¦val Town Series_
 
  *ASSISI. By Lina Duff Gordon.
 
@@ -12748,7 +12722,7 @@ _The Mediæval Town Series_
 
  +PISA. By Janet Ross.
 
- *PRAGUE. By Count Lützow.
+ *PRAGUE. By Count LÃ¼tzow.
 
  +ROME. By Norwood Young.
 
@@ -12778,367 +12752,4 @@ TURNBULL AND SPEARS, PRINTERS, EDINBURGH
 
 End of Project Gutenberg's The story of Coventry, by Mary Dormer Harris
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE STORY OF COVENTRY ***
-
-***** This file should be named 58996-8.txt or 58996-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/8/9/9/58996/
-
-Produced by ellinora, Graeme Mackreth and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive/Canadian Libraries)
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 58996 ***
